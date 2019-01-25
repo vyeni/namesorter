@@ -1,0 +1,17 @@
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\NameSorter\NameSorterTest\bin\Debug\NameSorterTest.dll
+C:\NameSorter\NameSorterTest\bin\Debug\NameSorterTest.pdb
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\NameSorter\NameSorterTest\bin\Debug\name-sorter.exe
+C:\NameSorter\NameSorterTest\bin\Debug\name-sorter.pdb
+C:\NameSorter\NameSorterTest\bin\Debug\name-sorter.exe.config
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\NameSorter\NameSorterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.csprojAssemblyReference.cache
+C:\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.csproj.CoreCompileInputs.cache
+C:\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.csproj.CopyComplete
+C:\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.dll
+C:\NameSorter\NameSorterTest\obj\Debug\NameSorterTest.pdb
